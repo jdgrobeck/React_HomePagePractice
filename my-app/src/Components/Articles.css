@@ -1,0 +1,38 @@
+.articles-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 3%;
+    width: 75%;
+    padding: 100px;
+  }
+  
+  .articles-container img {
+    height: 300px;
+    width: 300px;
+  }
+  
+  .articles-container-text {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .article {
+    display: flex;
+    margin: 10px 0;
+  
+  }
+
+.articles-text h2 {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 25px;
+}
+
+.articles-text p {
+    margin: 0;
+    padding: 0;
+}
+
+.articles-text {
+    margin-left: 5%;
+}

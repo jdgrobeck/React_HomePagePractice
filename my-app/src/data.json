@@ -1,0 +1,33 @@
+
+
+{
+    
+     "basketball": [
+    {
+        "img": "imgs/nuggetssixers.png",
+        "img_alt": "Basketball player grabbing rebound",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, fuga esse. Earum, tenetur fuga! Quam minima exercitationem ducimus eum esse.",
+        "article_number": "1"
+
+    },
+
+    {
+        "img": "imgs/nuggetssixers.png",
+        "img_alt": "Basketball player grabbing rebound",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, fuga esse. Earum, tenetur fuga! Quam minima exercitationem ducimus eum esse.",
+        "article_number": "2"
+
+    },
+
+    {
+        "img": "imgs/nuggetssixers.png",
+        "img_alt": "Basketball player grabbing rebound",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, fuga esse. Earum, tenetur fuga! Quam minima exercitationem ducimus eum esse.",
+        "article_number": "3"
+
+    }
+]
+
+
+}
+
